@@ -2,3 +2,4 @@ sheet03/data/design_matrix.npy
 lightning_logs/version_0
 sheet08/data/Galaxy10.h5
 .gitignore
+sheet09/text.txt
